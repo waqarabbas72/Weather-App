@@ -19,7 +19,7 @@ body{
     padding: 10px 20px;
     border: none;
     border-radius: 12px;
-    width: 300px;
+    width: 280px;
 }
 
 p{
@@ -44,7 +44,7 @@ h3{
     flex-direction: column;
     align-items: center;
     border-radius: 20px;
-    width: 400px;
+    width: 350px;
 }
 
 .weather-details{
@@ -52,7 +52,7 @@ h3{
     margin: 20px 0;
     text-align: center;
     background-color: rgb(152, 152, 152);
-    width: 400px;
+    width: 350px;
 }
 
 ul li{

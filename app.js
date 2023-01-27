@@ -1,7 +1,8 @@
 const apiKey = "gFN6HJy9Tsj9SXzVf6txrIZ2YAe8N8hNdRC9PykI";
+
 const url = "https://api.api-ninjas.com/v1/weather?city=";
 const options = {
-  headers: { "X-Api-Key": "gFN6HJy9Tsj9SXzVf6txrIZ2YAe8N8hNdRC9PykI" },
+  headers: { "X-Api-Key": apiKey },
 };
 
 async function getWeather(city) {
